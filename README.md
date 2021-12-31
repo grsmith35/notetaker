@@ -20,6 +20,6 @@ Riley Smith
 ## Github User
 [Github profile](https://github.com/grsmith35)
 ## Screenshot
-![Screen Shot](https://github.com/grsmith35/rosterbuilder/blob/3fe791936fd2fb5f35a2fa5342d0160a602f45b3/assets/finalbuild.PNG)
+![Screen Shot](https://github.com/grsmith35/notetaker/blob/babbdaca76b0084cbe7750cc9ee0b0c33954b82a/public/assets/images/screenshot.PNG)
 ## Questions
 If you have any questions on this code please reachout to me at riley_smith8@hotmail.com.
